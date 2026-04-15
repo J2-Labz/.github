@@ -18,6 +18,7 @@
 | [patient-intake-api](https://github.com/J2-Labz/patient-intake-api) | Patient intake API | shared |
 | [patient-intake-form](https://github.com/J2-Labz/patient-intake-form) | Patient intake front-end | shared |
 | [pms_connector](https://github.com/J2-Labz/pms_connector) | Open Dental PMS integration | shared |
+| [platform-bookkeeper](https://github.com/J2-Labz/platform-bookkeeper) | Scheduled ops automation (Stripe failed-payments, weekly/monthly close) | shared |
 
 Browse all repos by topic: [product-edossea](https://github.com/search?q=topic%3Aproduct-edossea+org%3AJ2-Labz&type=Repositories) · [product-airmc](https://github.com/search?q=topic%3Aproduct-airmc+org%3AJ2-Labz&type=Repositories) · [scope-shared](https://github.com/search?q=topic%3Ascope-shared+org%3AJ2-Labz&type=Repositories)
 
