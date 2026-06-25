@@ -13,6 +13,7 @@
 |---|---|---|
 | [j2labs-team-os](https://github.com/J2-Labz/j2labs-team-os) | Team operating system: strategy, research, product plans | docs |
 | [eDossea](https://github.com/J2-Labz/eDossea) | Flagship application | product-edossea |
+| [edossea-support-agent](https://github.com/J2-Labz/edossea-support-agent) | Isolated Apps Script agent triaging support@ mail: auto-replies, KB drafts, escalation. Out of TX-RAMP scope | product-edossea |
 | [dental-insurance-code-finder](https://github.com/J2-Labz/dental-insurance-code-finder) | Agentic CDT code selection (AI RCM R&D) | product-airmc |
 | [patient-intake-service](https://github.com/J2-Labz/patient-intake-service) | Patient intake dashboard + service | shared |
 | [patient-intake-api](https://github.com/J2-Labz/patient-intake-api) | Patient intake API | shared |
