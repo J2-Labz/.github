@@ -1,6 +1,6 @@
 # J2 Labs
 
-**J2 Labs Holdings LLC (dba eDossea)** — small-team SaaS in dental / health IT.
+**J2 Labs Holdings, Inc. (dba eDossea)** — small-team SaaS in dental / health IT.
 
 ## Product lines
 
